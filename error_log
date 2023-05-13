@@ -1,0 +1,1 @@
+[24-May-2022 15:17:22 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\ExaminationController, because the name is already in use in /home1/myrxeg09/public_html/storage/framework/views/a0cb7bb4624289215b82e7b66f9e80753d48fc9f.php on line 18
